@@ -8,6 +8,6 @@ class Product extends Model
 {
     protected $table ="product";
     public $timestamps = false;
-    protected $primaryKey = "id";
+    protected $primaryKey = "gf";
 
 }
